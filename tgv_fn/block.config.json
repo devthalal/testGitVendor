@@ -1,0 +1,20 @@
+{
+  "blockId": "gYnydJhaZM3ILUvlB7CTQ",
+  "name": "tgv_fn",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_tgv_fn"
+  },
+  "parentBlockIDs": [
+    "irN7xkhB3vbwY4EuKjszg"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
