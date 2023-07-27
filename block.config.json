@@ -15,7 +15,11 @@
   "repoType": "mono",
   "dependencies": {
     "tgv_fn": {
-      "directory": "tgv_fn"
+      "directory": "tgv_fn",
+      "versionId": "D4D27c5uHZ595pqN0sgfU",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "3vf3YT0Io_6vvJDnpj37n"
 }
