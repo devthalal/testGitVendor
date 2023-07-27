@@ -1,0 +1,21 @@
+{
+  "name": "testGitVendor",
+  "type": "package",
+  "blockId": "irN7xkhB3vbwY4EuKjszg",
+  "source": {
+    "https": "https://github.com/devthalal/testGitVendor.git",
+    "ssh": "git@github.com:devthalal/testGitVendor.git",
+    "branch": "block_testGitVendor"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "tgv_fn": {
+      "directory": "tgv_fn"
+    }
+  }
+}
